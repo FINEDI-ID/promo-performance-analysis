@@ -42,3 +42,8 @@ generating profitable growth rather than simply increasing sales?
 *Figure 2. Margin erosion and campaign performance analysis.*
 
 ...
+## 📁 Project Files
+
+The Excel file used for this analysis is available in this repository.
+
+https://1drv.ms/x/c/65f71248cedbbf20/IQARtlEmjgODQK92L3_g1QFfAQFDz-jwWWXPHfkbaMIIpbE?e=A4lBBC
