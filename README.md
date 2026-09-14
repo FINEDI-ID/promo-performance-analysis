@@ -46,4 +46,4 @@ generating profitable growth rather than simply increasing sales?
 
 The Excel file used for this analysis is available in this repository.
 
-📥 [Download the Excel Dashboard](data/Promo-Performance-Analysist%(1).xlsx)
+📥 [Download the Excel Dashboard](data/Promo-Performance-Analysist(1).xlsx)
