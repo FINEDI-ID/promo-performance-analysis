@@ -20,7 +20,7 @@ Performance Dashboard.
 
 ## 📷 Dashboard Preview
 
-![Full Dashboard](imageassets/Full Dashboard.png)
+![Full Dashboard](imageassets/Full-Dashboard.png)
 
 *Figure 1. Sales Overview – August Promo Performance Dashboard.*
 
@@ -37,7 +37,7 @@ generating profitable growth rather than simply increasing sales?
 
 ## 📊 Margin & Campaign Analysis
 
-![Margin and Campaign Analysis](imageassets/Margin leaked.png)
+![Margin and Campaign Analysis](imageassets/Margin-leaked.png)
 
 *Figure 2. Margin erosion and campaign performance analysis.*
 
